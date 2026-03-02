@@ -1,0 +1,39 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    padding: 25px;
+}
+
+thead{
+    background-color: rgb(136, 192, 255);
+}
+
+#nome{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    text-transform: uppercase;
+    font-family: unset;
+    border-color: black;
+}
+
+#nome2{
+    background-color: red;
+    color: black;
+    border-color: black;
+}
+th{
+    color: red;
+    border-color: aliceblue;
+}
+
+#categoria{
+    background-color: black;
+    color: red;
+    border-color: red;
+}
+#sobre{
+    background-color: aliceblue;
+}
