@@ -1,0 +1,64 @@
+/* ------- Sintaxe ---------
+
+setor{
+    propriedade: valor;
+
+}
+
+*/
+
+p{
+    color: purple;
+}
+
+h1{
+    color: rgb(181, 210, 35);
+}
+
+h2{
+    color: rgb(187, 255, 0);
+}
+
+h3{
+    color: rgb(247, 137, 59);
+
+}
+
+p{
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 65px;
+    text-transform: uppercase;
+}
+
+.box{
+    /* width: 200px;
+    height: 100px; */
+    background-color: blueviolet;
+    padding: 10px;
+    border: 5px dashed #000;
+    
+}
+
+.box2{
+    background-color: lightblue;
+    color: gray;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 20px dotted #000;
+}
+
+.box3{
+    background-color: #5cfe62;
+    color: #fff;
+    border: 5px solid #000;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    margin-left: 50px;
+}
